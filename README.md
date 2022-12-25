@@ -409,6 +409,13 @@ https://youtu.be/OQj-wJ3sPYc
 
 **5. CONCLUSIONES**
 
+Logramos comprender los principios de efecto de carga de un voltimetro,redes en escalera,el puente wheatstone ,fuentes de voltaje cd y  el teorema de superposicion con la ayuda de esos conocimientos y despues de resolver los ejercicios planteados en el capitulo 7 y  8 , hemos  adquirir correctamente esos conocimientos de una manera efectiva para aplicarlos a lo largo de nuestra carrera universitaria.
+
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
